@@ -34,7 +34,9 @@ nav a{
   display: block;
 }
 
-
+nav a.active-page{
+  background-color:white;
+}
 
 nav a:hover{
   text-decoration: underline;
