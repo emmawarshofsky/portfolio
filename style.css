@@ -93,13 +93,13 @@ footer{
 
 
 img{
-  max-width: 200px;
+  max-width: 245px;
   height: auto;
 }
 
 .container{
   display: grid;
-  grid-template-columns: 200px auto;
+  grid-template-columns: 245px auto;
   grid-template-rows: auto auto auto auto auto auto auto auto auto auto;
   grid-row-gap: 15px;
   
