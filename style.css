@@ -99,7 +99,7 @@ img{
 
 .container{
   display: grid;
-  grid-template-columns: 100px auto;
+  grid-template-columns: 100px 200px;
   grid-template-rows: auto auto auto auto auto auto auto auto auto auto;
   grid-row-gap: 15px;
   
