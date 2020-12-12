@@ -12,7 +12,7 @@ body{
 h1{
   font-size: 50px;
   line-height: 1;
-  padding: 50px 0;
+  padding: 25px 0;
   text-align: center;
 }
 
@@ -131,7 +131,7 @@ header{
   background-repeat: no-repeat; /* Parallax effect */
   background-size: cover;       /* Parallax effect */
   color: #014421;
-  height: 400px;                
+  height: 100px;                
   grid-column: 1 / -1;  
   grid-row: 1 / auto;   
 }
