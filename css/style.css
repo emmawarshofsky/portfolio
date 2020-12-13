@@ -326,7 +326,6 @@ color: #014421;
   .concerts{
     flex-direction: row;
     margin: 10px;
-    object-fit: cover;
   }
 
   .aboutemma{
@@ -381,7 +380,6 @@ color: #014421;
   .concerts{
     flex-direction: row;
     margin: 10px;
-    object-fit: cover;
   }
 
   .aboutemma{
