@@ -26,7 +26,7 @@ main p, header p{
   font-size: 15px;
   color: #014421;
   text-align: center;
-  
+  padding: 5px;
 }
 
 header p{
